@@ -29,6 +29,10 @@ idf.py fullclean
 idf.py -p COM5 flash
 ```
 # Cấu hình phần cứng (Board Configuration)
+
+
+![Uploading image.png…]()
+
 Microphone (I²S)
 
 ## Sử dụng microphone kỹ thuật số I²S loại INMP441 / SPH0645 / ICS-43434.
