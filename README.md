@@ -31,7 +31,8 @@ idf.py -p COM5 flash
 # Cấu hình phần cứng (Board Configuration)
 
 
-![Uploading image.png…]()
+<img width="800" height="581" alt="image" src="https://github.com/user-attachments/assets/37683826-03ae-4d9c-bb50-71cebc37cfe3" />
+
 
 Microphone (I²S)
 
