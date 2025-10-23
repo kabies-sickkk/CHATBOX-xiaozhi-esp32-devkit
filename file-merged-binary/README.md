@@ -21,10 +21,13 @@ Xiaozhi Assistant -> Board Type -> ESP32 CGC 144
 idf.py build
 ```
 xóa dữ liệu Build
+```bash
 idf.py fullclean
-
+```
 # thay COM5 bằng cổng thực tế
+```bash
 idf.py -p COM5 flash
+```
 # Cấu hình phần cứng (Board Configuration)
 Microphone (I²S)
 
